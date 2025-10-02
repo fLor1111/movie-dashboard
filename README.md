@@ -25,4 +25,4 @@ I built this mainly as a fun project for my second year in programming, but it a
 1. Clone the project:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/fLor1111/movie-dashboard.git
