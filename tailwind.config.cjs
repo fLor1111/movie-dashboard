@@ -1,4 +1,4 @@
-module.exports = {
+asdasmodule.exports = {
   content: ["./index.html", "./src/**/*.{js,jsx}"],
   theme: {
     extend: {},
