@@ -5,7 +5,7 @@ import MovieList from "./components/MovieList";
 import Loading from "./components/Loading";
 import Footer from "./components/Footer";
 
-const API_URL = `http://www.omdbapi.com/?apikey=${import.meta.env.VITE_OMDB_API}`;
+const API_URL = `https://www.omdbapi.com/?apikey=${import.meta.env.VITE_OMDB_API_KEY}`;
 
 function App() {
   const [movies, setMovies] = useState([]);
